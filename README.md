@@ -1,6 +1,6 @@
 # org.buffalo-coders:aws-lambda-jaxrs-parent
 
-Apache Maven top level pom for all Buffalo Coders AWS Lambda projects.
+Apache Maven top level pom for all Buffalo Coders AWS Lambda JAX-RS projects.
 
 ## Usage
 
